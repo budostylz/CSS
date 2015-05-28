@@ -10,11 +10,10 @@
 
     <body>
       
-      <div id='wrapper' style='margin-left:120px'>
+      <div id='wrapper' style='margin:50px'>
         <div class= 'span_1_of_3' style='background-color:blue; float:left' >Blue</div>
         <div class= 'span_2_of_3' style='background-color:green; float:left' >Green</div>
         <div class= 'span_1_of_3' style='background-color:yellow; float:left' >Yellow</div>
       </div>
-    </div>
     </body>
 </html>
