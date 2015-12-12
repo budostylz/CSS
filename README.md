@@ -8,3 +8,7 @@ http://www.responsivegridsystem.com/
 
 http://getbootstrap.com/css/
 
+##Animate.css
+
+https://daneden.github.io/animate.css/
+
